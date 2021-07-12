@@ -1,2 +1,2 @@
 # StoryPPW
-Web Design &amp; Programming assignment
+Web Design &amp; Programming assignment using Django.
